@@ -17,7 +17,7 @@ Welcome to the SpaceX Project! This project showcases a dynamic and responsive w
 
 ## Demo
 
-Check out the live demo of the project [here](#).
+Check out the live demo of the project [Link](https://itsrudra143.github.io/spacex/).
 
 ## Features
 
